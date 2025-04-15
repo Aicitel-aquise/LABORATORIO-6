@@ -1,0 +1,10 @@
+body { background-color: #000;
+      color: white; 
+      text-align: center;
+       font-family: Verdana;
+        margin: 0;
+         padding: 20px; }
+img { width: 300px; 
+     margin: 15px; 
+     border-radius: 10px; 
+     box-shadow: 0 0 15px rgba(255,255,255,0.2); }

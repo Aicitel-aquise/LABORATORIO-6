@@ -1,0 +1,19 @@
+body { font-family: Arial;
+      background-color: #f5f5f5; 
+      padding: 20px; }
+form { background: white;
+      padding: 20px;
+       width: 300px; 
+       margin: auto; 
+       border-radius: 10px;
+        box-shadow: 0 0 10px #ccc; }
+input, select { width: 100%;
+      padding: 8px; 
+      margin: 8px 0; }
+input[type="submit"]
+ { background: #007BFF; 
+     color: white;
+      border: none;
+       cursor: pointer; }
+input[type="submit"]:hover {
+      background: #0056b3; }

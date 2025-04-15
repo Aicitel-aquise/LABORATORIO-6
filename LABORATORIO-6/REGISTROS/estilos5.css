@@ -1,0 +1,15 @@
+body { background: #f0f0f0; 
+     font-family: Helvetica; }
+form { background: white;
+      padding: 20px;
+       max-width: 350px; 
+       margin: 40px auto;
+        border-radius: 10px; }
+input, textarea { 
+     width: 100%; 
+     margin: 8px 0;
+      padding: 10px; }
+input[type="submit"] {
+      background: #4caf50;
+       color: white;
+        border: none; }

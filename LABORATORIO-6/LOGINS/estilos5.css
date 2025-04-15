@@ -1,0 +1,19 @@
+body { background: #f8bbd0;
+      font-family: Georgia;
+       padding: 50px; }
+form { background: white;
+      padding: 20px;
+       max-width: 300px;
+        margin: auto;
+         border-radius: 8px; }
+input, button { width: 100%;
+      margin: 10px 0;
+       padding: 10px; }
+a { text-decoration: none; 
+     color: #e91e63; 
+     font-size: 0.9em;
+      display: block;
+       text-align: center; }
+button { background: #e91e63;
+      color: white;
+       border: none; }
